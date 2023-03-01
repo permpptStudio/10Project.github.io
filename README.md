@@ -11,7 +11,7 @@ There are 10 project in total.
 * Virtual Drum Kit
 * Article progress Bar
 * Accordion to Tabs
-* Flexbox Image Slider
+* Image Slider
 ## Lanquage and etc.
 * html5
 * css3
